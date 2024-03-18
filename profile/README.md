@@ -1,1 +1,1 @@
-<img src="corner-pole.jpg">
+<img src="./corner-pole.jpg">
