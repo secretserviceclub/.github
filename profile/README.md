@@ -1,0 +1,1 @@
+<img src="corner-pole.jpg">
