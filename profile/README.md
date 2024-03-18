@@ -1,1 +1,1 @@
-<img src="./profile/corner-pole.jpg">
+<img src="./profile/logo-white.png">
